@@ -1,0 +1,16 @@
+streamlit
+opencv-python
+rasterio
+numpy
+Pillow
+scikit-learn
+ultralytics
+tensorflow
+pandas
+matplotlib
+scikit-image
+rasterio
+shapely
+geopandas
+-e .
+
